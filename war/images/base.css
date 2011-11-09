@@ -1,0 +1,292 @@
+<style type="text/css">
+<!--
+html {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+.centerPage {
+width:780px;
+margin:0 auto;
+}
+
+body {
+	background-color: #a5c5e1;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:100%;
+}
+
+img {
+border:none;
+}
+
+ul {
+margin-top:5px;
+}
+
+table {
+border:none;
+background-color:#FFFFFF;
+font-size:10px;
+}
+
+.mainTable {
+background:url(images/MainBody_TopShadow.jpg);
+background-position:top;
+background-repeat:no-repeat;
+background-color:#FFFFFF;
+border:thin;
+border-style:solid;
+border-right:none;
+border-left:none;
+border-top:none;
+border-bottom-color:#CCCCCC;
+border-bottom-width:1px;
+}
+
+.shadowTable {
+background-color:#a5c5e1;
+width: 785px;
+}
+
+td {
+	text-align:left;
+}
+
+a {
+	color:#176ba5;
+	font-size:10px;
+	text-decoration:none;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+	color:#000000;
+	text-decoration:underline;
+}
+
+.wide {
+width:751px;
+}
+
+.rightAlignText {
+text-align:right;
+}
+
+
+.mainBody {
+	
+	border:thin;
+	background-color:#f2f0f0;
+	
+	border-right:none;
+	border-left:none;
+	border-top:none;
+	border-bottom-style:solid;
+	border-bottom-color:#CCCCCC;
+	border-bottom-width:1px;
+	height:263px;
+	
+}
+
+.subMenuTD { 
+	padding-left:15px;
+	padding-top:27px;
+	width:200px;
+	height:429px;
+}
+
+.contentTD {
+	font-size:10px;
+	padding-top:42px;
+	padding-right:25px;
+	padding-bottom:25px;
+	line-height: 15px;
+}
+
+
+
+/* Home Page */
+
+.descTD {
+	padding-top:20px;
+	padding-left:15px;
+	padding-right:15px;
+	background-color:#ffffff;
+	
+}
+
+.descCol {
+	padding-top:15px;
+	padding-left:15px;
+	padding-right:10px;
+	background-color:#ffffff;
+	width:406px;
+	float:left;
+	height:248px;
+}
+
+.mainText {
+	font-size:10px;
+	line-height:20px;
+	color:#332f30;
+	padding-top:5px;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:15px;
+	background-color:#ffffff;
+}
+
+.larger {
+	font-size:11px;
+	color:#332f30;
+	font-weight:bold;
+}
+
+.mainDesc {
+	font-size:10px;
+	line-height: 20px;
+	color:#4a4245;
+}
+
+
+
+.companyBig {
+	font-size:12px;
+}
+
+
+.newsTD {
+	width:280px;
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:15px;
+	padding-bottom:10px;
+	background-color:#f2f0f0;
+
+}
+
+.newsCol {
+	width:280px;
+	padding-top:20px;
+	padding-left:20px;
+	padding-right:15px;
+	padding-bottom:10px;
+	background-color:#f2f0f0;
+	float:left;
+}
+
+.newsDate {
+padding-top:5px;
+color:#176ba5;
+font-weight:bold;
+font-size:10px;
+line-height:14px;
+}
+.newsText {
+font-size:10px;
+color:#4a4245;
+line-height:16px;
+}
+
+/* End Home Page */
+
+
+/* Footer */
+
+.footerTable {
+	height:35px;
+	font-size:9px;
+}
+
+.footerLeft {
+	padding-left:5px;
+}
+
+.footerRight {
+	text-align:right;
+	padding-right:5px;
+}
+
+.footerNav {
+color:#777174;
+}
+
+.footerLink {
+color:#777174;
+font-size:9px;
+}
+
+
+.copyrightTD{
+background-color: #a5c5e1;
+font-size:9px;
+padding-top:10px;
+padding-left:18px;
+}
+
+.copyrightTD a{
+
+font-size:9px;
+color:#000000;
+}
+
+.copyrightRight{
+margin-left:390px;
+text-align:right;
+}
+
+/* End Footer */
+
+
+/* Contact */
+.subHeader {
+
+color:#176ba5;
+font-weight:bold;
+font-size:10px;
+
+}
+/* End Contact */
+
+
+
+/*Consulting*/
+
+.greyCaseStudyTable {
+background:url(images/casestudy_grey_background.gif);
+height:97px;
+}
+
+.blueCaseStudyTable {
+background:url(images/casestudy_blue_background.gif);
+height:97px;
+}
+
+.caseStudyTD {
+padding-left:15px;
+padding-right:8px;
+}
+
+.caseStudyTD a {
+	font-weight:bold;
+	color:black;
+}
+
+
+/* End Consulting */
+
+/* Software */
+.label {
+font-weight:bold;
+}
+
+.error {
+font-weight:bold;
+color:#990000;
+font-size:11px;
+}
+/* End Software */
+
+-->
+
+</style>
