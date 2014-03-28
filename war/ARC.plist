@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.stretchcom.ARC</string>
+				<string>com.arcmobileapp.ARC</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>2.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ARC</string>
+				<string>dutch</string>
 			</dict>
 		</dict>
 	</array>
